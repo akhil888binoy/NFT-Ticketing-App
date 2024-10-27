@@ -1,0 +1,20 @@
+{
+    "name": "Event Ticket #3",
+    "description": "This ticket grants access to Event #3.",
+    "image": "ipfs://QmVQ2sLT2RagJAxsL3UEUYq49ybJZKz4nMhYzZYYqwHtEt/3.png",
+    "attributes": [
+      {
+        "trait_type": "Event Date",
+        "value": "2024-10-17"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Stadium C"
+      },
+      {
+        "trait_type": "Seat Number",
+        "value": "C3"
+      }
+    ]
+  }
+  

@@ -1,0 +1,20 @@
+{
+    "name": "Event Ticket #2",
+    "description": "This ticket grants access to Event #2.",
+    "image": "ipfs://QmVQ2sLT2RagJAxsL3UEUYq49ybJZKz4nMhYzZYYqwHtEt/2.png",
+    "attributes": [
+      {
+        "trait_type": "Event Date",
+        "value": "2024-10-16"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Stadium B"
+      },
+      {
+        "trait_type": "Seat Number",
+        "value": "B2"
+      }
+    ]
+  }
+  

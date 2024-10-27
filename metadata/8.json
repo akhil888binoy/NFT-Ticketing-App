@@ -1,0 +1,20 @@
+{
+    "name": "Event Ticket #8",
+    "description": "This ticket grants access to Event #8.",
+    "image": "ipfs://QmVQ2sLT2RagJAxsL3UEUYq49ybJZKz4nMhYzZYYqwHtEt/8.png",
+    "attributes": [
+      {
+        "trait_type": "Event Date",
+        "value": "2024-10-22"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Stadium H"
+      },
+      {
+        "trait_type": "Seat Number",
+        "value": "H8"
+      }
+    ]
+  }
+  
