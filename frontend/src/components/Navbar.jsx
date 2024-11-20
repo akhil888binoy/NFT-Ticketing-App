@@ -12,12 +12,13 @@ const Navbar = () => {
   </nav>
 
   <nav className="flex  font-bold text-lg gap-7 text-white">
+  <a href="https://github.com/akhil888binoy" target="_blank" rel="noopener noreferrer" className="text-white  hover:text-pink-500">
+      Github link
+    </a>
     <NavLink to={"/ticket"} className="hover:text-pink-600">
      Get Tickets
     </NavLink>
-    <a href="https://github.com/akhil888binoy" target="_blank" rel="noopener noreferrer" className="text-white  hover:text-pink-500">
-      Github link
-    </a>
+    
   </nav>
 </header>
 
